@@ -4,4 +4,4 @@
 
 ### print do gerador
 
-(print)[]
+![Print](https://github.com/gbxventura/gerador-de-senha/blob/main/src/imgs/print.png)
